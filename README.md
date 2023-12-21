@@ -18,5 +18,5 @@ Welcome to the Password Generator program! This Python script is designed to gen
 
 2. **Run the Script:**
    ```bash
-   python password_generator.py
+   python day5_password.py
    ```
